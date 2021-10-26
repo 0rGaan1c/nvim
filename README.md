@@ -2,4 +2,4 @@
 
 Neovim config files.
 
-[https://www.youtube.com/watch?v=ZEFXeRIFvN0&t=605s](Tutorial) - I found this tutorial really helpful.
+[Tutorial](https://www.youtube.com/watch?v=ZEFXeRIFvN0&t) - I found this tutorial really helpful.
