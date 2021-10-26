@@ -6,6 +6,10 @@ Plug 'morhetz/gruvbox'
 Plug 'joshdick/onedark.vim'
 Plug 'danilo-augusto/vim-afterglow'
 Plug 'tpope/vim-fugitive'
+Plug 'preservim/nerdtree'
+Plug 'ctrlpvim/ctrlp.vim'
+Plug 'neoclide/coc.nvim', {'branch': 'release'}
 call plug#end()
 
-colorscheme afterglow
+colorscheme gruvbox
+map <silent> <C-n> :NERDTreeFocus<CR>
